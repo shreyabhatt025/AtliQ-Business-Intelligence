@@ -7,3 +7,4 @@ Performed a detailed data analysis and developed an interactive dashboard levera
 
 
 ## PROVIDED MOCK-UP DASHBOARD 
+<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/6d472a9d-2053-41e8-8602-bb694922d4e1" />
