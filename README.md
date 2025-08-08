@@ -11,10 +11,14 @@ Performed a detailed data analysis and developed an interactive dashboard levera
 
 ## DATA MODEL 
 
-Data Modeling
-To enable robust analysis and insightful reporting, I performed comprehensive data modeling on the provided hotel operations dataset using Power BI. The process involved:
+Data Modeling - This structured data model provided a scalable foundation for metric computation, advanced analytics, and the creation of interactive dashboards tailored to stakeholder requirements.
+To enable robust analysis and insightful reporting, I performed comprehensive data modeling on the provided hotel operations dataset .  The process involved:
 1)Designing a star schema with clearly defined dimension and fact tables (e.g., dim_date, dim_hotel, dim_rooms, fact_bookings, fact_aggregated_bookings).
 2)Establishing primary and foreign key relationships to accurately link booking, property, room, and date information.
 3)Normalizing attributes across tables for data consistency and efficient querying.
+4)Ensuring referential integrity to support reliable metric calculations and dynamic dashboard visualizations.
+
+<img width="1365" height="700" alt="Image" src="https://github.com/user-attachments/assets/b56bb974-0b4a-48da-970a-6d1cc97d0134" /> 
+
 
 
